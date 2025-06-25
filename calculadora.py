@@ -282,6 +282,7 @@ if __name__ == "__main__":
         fg="#bdc3c7",
         font=("Arial", 8)
     )
+    
     info_label.grid(row=8, column=0, columnspan=6, pady=5)
     
     # Iniciar el bucle principal
